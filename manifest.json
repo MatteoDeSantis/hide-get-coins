@@ -1,0 +1,11 @@
+{
+    "name": "Get Coins Blocker",
+    "version": "1.0",
+    "description": "Hide the Get Coins UI buttons on the header of Reddit",
+    "manifest_version": 2,
+
+    "content_scripts": [{
+        "css": ["hideUI.css"],
+        "matches": ["https://www.reddit.com/*"]
+      }]
+  }
