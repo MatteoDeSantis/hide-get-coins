@@ -1,4 +1,4 @@
-## A Chrome extension to hide the Get Coins UI buttons from the header of Reddit
+## A Chrome extension to hide the "Get Coins" UI buttons from the header of Reddit
 
 # HOW TO INSTALL
 
